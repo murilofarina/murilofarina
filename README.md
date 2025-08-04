@@ -73,14 +73,13 @@ Atualmente estou cursando Sistemas de Informação na **UNOESTE**, trabalho como
         style="padding-right: 10px;"
         src="https://github-readme-stats.vercel.app/api?username=murilofarina&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
     />
-
-<!-- Top languages rascunho pra qnd for usar -->
-<!-- <p>
+    
+<p>
     <img
         align="left"
         alt="Github Stats"
         height="200"
         style="padding-right: 10px;"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilofarina&theme=tokyonight&layout=compact&custom_title=Technologias"
-    /> -->
+    />
 ****
