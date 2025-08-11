@@ -3,7 +3,7 @@
 **`Estudante de Sistemas de Informação`**
 
 Me chamo Murilo Farina, tenho 18 anos e sou de Presidente Prudente.
-Atualmente estou cursando Sistemas de Informação na **UNOESTE**, trabalho como gestor de um e-commerce local, e estou realizando o curso presencial <font color="cyan">Hackatruck</font> com foco em desenvolvimento de apps iOS em Swift <font color="gray">*(estou compartilhando minhas criações e desafios aqui no GitHub)*</font>. Sou apaixonado por tecnologia, negócios e liberdade geográfica, buscando constantemente aprender e empreender!
+Atualmente estou cursando Sistemas de Informação na **UNOESTE**, trabalho como gestor de um e-commerce local, e estou realizando o curso presencial <font color="cyan">Hackatruck</font> com foco em desenvolvimento de apps iOS em Swift <font color="gray">*(estou compartilhando minhas criações e desafios aqui no GitHub)*</font>. Sou apaixonado por tecnologia, negócios e buscando constantemente aprender e empreender!
 
 <p align="left">
     <a href="https://www.linkedin.com/in/murilofarina" target="_blank">
