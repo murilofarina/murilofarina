@@ -62,7 +62,7 @@ Atualmente estou cursando o segundo termo de Sistemas de Informação na **UNOES
 <br/>
 <br/>
 
-### 📊 Estatísticas <font color="gray">*(quase nada ainda...)*</font>
+### 📊 Estatísticas
 
 
 <p>
