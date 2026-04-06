@@ -3,7 +3,7 @@
 **`Estudante de Sistemas de Informação`**
 
 Me chamo Murilo Farina, tenho 18 anos e sou de Presidente Prudente.
-Atualmente estou cursando o segundo termo de Sistemas de Informação na **UNOESTE**. Sou apaixonado por tecnologia, negócios e buscando constantemente aprender e empreender!
+Atualmente estou cursando o terceiro termo de Sistemas de Informação na **UNOESTE**. Sou apaixonado por tecnologia, negócios e buscando constantemente aprender e empreender!
 
 <p align="left">
     <a href="https://www.linkedin.com/in/murilofarina" target="_blank">
